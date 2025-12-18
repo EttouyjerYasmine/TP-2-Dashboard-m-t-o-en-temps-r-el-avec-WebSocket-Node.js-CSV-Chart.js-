@@ -39,7 +39,12 @@ meteo-realtime/
 │── node_modules/
 
 #### Lancer le projet
+
 node app2.js
+
+<img width="1916" height="945" alt="TPMeteo" src="https://github.com/user-attachments/assets/ecc822c0-e0b3-485d-aa1f-8df75cc9e80e" />
+
+<img width="480" height="504" alt="tpmeteo2" src="https://github.com/user-attachments/assets/e7e9f527-c304-4051-9d51-6337a814fa7c" />
 
 
 #### Résultat attendu
